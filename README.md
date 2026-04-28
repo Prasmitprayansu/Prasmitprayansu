@@ -74,9 +74,9 @@ prasmit = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔗 **[Aadhar-360](#)** | A combined model for prediction of biometric enrollment using regression and data visualization of the dataset | `Python` `Pandas` |
-| 🔗 **[food-delivery-predictor](#)** | Synthetic data generation and visual analytics for denoising restaurant prep-time signals and improving delivery ETAs. | `Python` `Matplotlib` |
-| 🔗 **[Bank-Customer-Churn](#)** | Built a stacking ensemble that achieves ROC-AUC of 0.863 on 10,000 customer records. | `Python` `Pandas` |
+| 🔗 **[Aadhar-360](#https://github.com/Prasmitprayansu/UIDAI-aadhar-analysis)** | A combined model for prediction of biometric enrollment using regression and data visualization of the dataset | `Python` `Pandas` |
+| 🔗 **[food-delivery-predictor](#https://github.com/Prasmitprayansu/food-delivery-kpt-predictor)** | Synthetic data generation and visual analytics for denoising restaurant prep-time signals and improving delivery ETAs. | `Python` `Matplotlib` |
+| 🔗 **[Bank-Customer-Churn](#https://github.com/Prasmitprayansu/Bank-Customer-Churn)** | Built a stacking ensemble that achieves ROC-AUC of 0.863 on 10,000 customer records. | `Python` `Pandas` |
 
 ---
 
