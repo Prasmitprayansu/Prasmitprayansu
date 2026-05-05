@@ -23,7 +23,7 @@
 
 ```python
 prasmit = {
-    "degree":   "B.Tech Computer Science — 3rd Year",
+    "degree": "B.Tech Computer Science — 3rd Year",
     "location": "India 🇮🇳",
     "interests": ["Data", "Backend Engineering", "Machine Learning"],
     "currently_learning": ["Advanced ML", "R", "JavaScript"],
@@ -50,6 +50,16 @@ prasmit = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**ML/Data**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Databases & Tools**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
