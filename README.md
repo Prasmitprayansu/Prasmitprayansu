@@ -13,7 +13,7 @@
 
 *CS undergrad · builder · perpetual learner*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=500&lines=3rd+Year+Computer+Science+%F0%9F%8E%93;Data+%7C+Backend+%7C+Analytics+%7C+Web;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=500&lines=4th+Year+Computer+Science+%F0%9F%8E%93;Data+%7C+Backend+%7C+Analytics+%7C+Web;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
