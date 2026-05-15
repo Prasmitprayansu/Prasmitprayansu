@@ -27,8 +27,7 @@ prasmit = {
     "location": "India 🇮🇳",
     "interests": ["Data", "Backend Engineering", "Machine Learning"],
     "currently_learning": ["Advanced ML", "R", "JavaScript"],
-    "ask_me_about": ["Data", "Python", "SQL", "CS concepts"],
-    "fun_fact": "I debug with print statements, and I'm not ashamed."
+    "ask_me_about": ["Data", "Python", "SQL", "CS concepts"]
 }
 ```
 
