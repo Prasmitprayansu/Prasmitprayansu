@@ -79,7 +79,6 @@ prasmit = {
 
 ## 🚀 Featured Projects
 
-> *"Good code is its own best documentation."*
 
 | Project | Description | Stack |
 |--------|-------------|-------|
